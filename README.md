@@ -1,3 +1,3 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jonthysell&count_private=true&show_icons=true&theme=graywhite" alt="Jon Thysell's Github Stats" />
-</p>
+<div align="center">
+<img align="center" alt="Jon Thysell's GitHub Stats" src="https://github-readme-stats.asklar.vercel.app/api?username=jonthysell&show_icons=true&hide_border=true" /> <img align="center" alt="Jon Thysell's Most Used Languages" src="https://github-readme-stats.asklar.vercel.app/api/top-langs?username=jonthysell&layout=compact&hide_border=true" />
+</div>
